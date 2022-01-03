@@ -4,5 +4,5 @@
 
 
 The repository contains the final version of the code and the detailed report.<br>
-Both are a further developments of the presented poster.<br>
+Both are a further developments of the presented poster, a Classifier was added on top of the Autoencoder.<br>
 Winter semester 2021/2022, TU Denmark.<br>
