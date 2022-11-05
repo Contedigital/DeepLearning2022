@@ -1,4 +1,4 @@
-# DeepLearning2022
+
 ### Skin disease image recontruction with quality improvement with AutoEncoders. <br>
 ![image](https://github.com/Contedigital/DeepLearning2022/blob/main/Deep_Learning_final_poster_V2-1.jpg)
 
